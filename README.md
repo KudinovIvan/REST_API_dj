@@ -59,15 +59,15 @@ API поддерживает все операции CRUD приложения (
 ![Cars_get](https://github.com/KudinovIvan/REST_API_dj/blob/master/assets/cars_get.png)
 ## /api/cars/post/
 ![Cars_post](https://github.com/KudinovIvan/REST_API_dj/blob/master/assets/cars_post.png)
-## /api/cars/put/<int:pk>/
+## /api/cars/put/\<int:pk>/
 ![Cars_put](https://github.com/KudinovIvan/REST_API_dj/blob/master/assets/cars_put.png)
-## /api/cars/delete/<int:pk>/
+## /api/cars/delete/\<int:pk>/
 ![Cars_delete](https://github.com/KudinovIvan/REST_API_dj/blob/master/assets/cars_delete.png)
 ## /api/dealers/get/
 ![Dealers_get](https://github.com/KudinovIvan/REST_API_dj/blob/master/assets/dealers_get.png)
 ## /api/dealers/post/
 ![Dealers_post](https://github.com/KudinovIvan/REST_API_dj/blob/master/assets/dealers_post.png)
-## /api/dealers/put/<int:pk>/
+## /api/dealers/put/\<int:pk>/
 ![Dealers_put](https://github.com/KudinovIvan/REST_API_dj/blob/master/assets/dealers_put.png)
-## /api/dealers/delete/<int:pk>/
+## /api/dealers/delete/\<int:pk>/
 ![Dealers_delete](https://github.com/KudinovIvan/REST_API_dj/blob/master/assets/dealers_delete.png)
